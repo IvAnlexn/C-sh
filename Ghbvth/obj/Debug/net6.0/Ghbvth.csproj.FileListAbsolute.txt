@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\C#\Ghbvth\bin\Debug\net6.0\Ghbvth.exe
+C:\Users\Ivan\Desktop\C#\Ghbvth\bin\Debug\net6.0\Ghbvth.deps.json
+C:\Users\Ivan\Desktop\C#\Ghbvth\bin\Debug\net6.0\Ghbvth.runtimeconfig.json
+C:\Users\Ivan\Desktop\C#\Ghbvth\bin\Debug\net6.0\Ghbvth.dll
+C:\Users\Ivan\Desktop\C#\Ghbvth\bin\Debug\net6.0\Ghbvth.pdb
+C:\Users\Ivan\Desktop\C#\Ghbvth\obj\Debug\net6.0\Ghbvth.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\C#\Ghbvth\obj\Debug\net6.0\Ghbvth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\C#\Ghbvth\obj\Debug\net6.0\Ghbvth.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\C#\Ghbvth\obj\Debug\net6.0\Ghbvth.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\C#\Ghbvth\obj\Debug\net6.0\Ghbvth.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\C#\Ghbvth\obj\Debug\net6.0\Ghbvth.dll
+C:\Users\Ivan\Desktop\C#\Ghbvth\obj\Debug\net6.0\refint\Ghbvth.dll
+C:\Users\Ivan\Desktop\C#\Ghbvth\obj\Debug\net6.0\Ghbvth.pdb
+C:\Users\Ivan\Desktop\C#\Ghbvth\obj\Debug\net6.0\Ghbvth.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\C#\Ghbvth\obj\Debug\net6.0\ref\Ghbvth.dll
